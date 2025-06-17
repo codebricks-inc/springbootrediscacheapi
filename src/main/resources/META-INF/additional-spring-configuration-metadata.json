@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "api.isro.centers",
+  "type": "java.lang.String",
+  "description": "API for retreiving ISRO Centers"
+}]}

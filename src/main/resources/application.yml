@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+api:
+ isro:
+  centers: https://isro.vercel.app/api/centres
+
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  cache:
+    type: redis
